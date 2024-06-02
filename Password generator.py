@@ -13,4 +13,4 @@ while True:
 char = string.ascii_letters
 password = ''.join(random.choice(char)for i in range(0,pass_length))
 print("\nGenerated Password:",password)
-print("*"*110)
+print("*"*110
